@@ -26,7 +26,7 @@ SECRET_KEY = '&$dc==svf65yts-go3v45v+%=_34rzjk=&7ia_d=@7jm&a)az3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['143.244.141.76']
 
 
 
