@@ -26,7 +26,7 @@ SECRET_KEY = '&$dc==svf65yts-go3v45v+%=_34rzjk=&7ia_d=@7jm&a)az3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['143.244.141.76']
+ALLOWED_HOSTS = ['143.198.145.95']
 
 
 
@@ -152,7 +152,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 # STATICFILES_DIRS = [os.path.join('/home/pcgujar/amh/static/')]
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')  
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static/'),
